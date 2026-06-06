@@ -2,7 +2,9 @@
 <img width="706" height="1600" alt="screen" src="https://github.com/user-attachments/assets/dc1c68df-d28f-4307-a7d1-ed8840113172" />
 
 ## SIGN-UP PAGE 
-<img width="706" height="1600" alt="screen" src="https://github.com/user-attachments/assets/b90bbe0f-a053-457b-8261-0f42bf89a566" />
+
+<img width="456" height="1600" alt="screen" src="https://github.com/user-attachments/assets/5a0b7fb0-aa59-428b-b03b-b28ef007603d" />
+
 
 ## LOGIN 
 <img width="706" height="1600" alt="screen" src="https://github.com/user-attachments/assets/9ded53c4-6704-44e7-b8c6-8b15f68fea33" />
